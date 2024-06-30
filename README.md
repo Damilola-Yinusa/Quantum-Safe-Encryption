@@ -10,7 +10,7 @@ This Python application implements quantum-safe encryption algorithms to secure 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/quantum_safe_encryption.git
+    git clone https://github.com/Damilola-Yinusa/quantum_safe_encryption.git
     cd quantum_safe_encryption
     ```
 
