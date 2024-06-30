@@ -1,5 +1,5 @@
 
-```markdown
+```
 # Quantum-Safe Encryption
 
 ## Overview
